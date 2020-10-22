@@ -26,7 +26,7 @@ An utterance or user example is an input that a user provides when prompted, inc
 
 ## Intent
 An intent is the purpose expressed by user input, which usually acts as a label for a group of utterances.
-For instance, if "Where can I find the gym?" is the question provided by a user, the Watson Assistant service understands that the user’s intent is to ask about the location of something (in this case, the gym, which is called the entity).
+For instance, if "Where can I find the gym?" is the question provided by a user, the Watson Assistant service understands that the user’s intent is to ask about the location of something (in this case, the gym, which is called the entitys).
 
 ## Entity
 An entity is usually a classification of objects aimed to help alert the response to an intent.
